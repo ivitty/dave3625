@@ -1,0 +1,1 @@
+I have chosen regression because it makes the most sense in my head when trying to predict stock price. From what I could gather online, most people use this method when trying to predict the stock market. I also saw people advising against using the regression algorithm for stock market prediction, so I might very well be mistaken. I think it worked out fine for me though.
